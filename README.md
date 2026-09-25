@@ -74,9 +74,9 @@ I focus on practical engineering: building resilient defenses by analyzing real 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake.svg">
-  <img alt="Umar Farooque Contribution Grid Snake" src="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake-dark.svg?v=20260925">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake.svg?v=20260925">
+  <img alt="Umar Farooque Contribution Grid Snake" src="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake.svg?v=20260925" width="100%">
 </picture>
 
 </div>

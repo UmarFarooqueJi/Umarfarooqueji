@@ -68,20 +68,6 @@ I focus on practical engineering: building resilient defenses by analyzing real 
 
 ---
 
-### 📊 Real-Time GitHub Telemetry & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UmarFarooqueJi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e14&title_color=00ff66&icon_color=00ff66&text_color=e6edf3" alt="Umar Farooque GitHub Stats" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarFarooqueJi&theme=radical&hide_border=true&background=0a0e14&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" alt="Umar Farooque GitHub Streak" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooqueJi&layout=compact&theme=radical&hide_border=true&bg_color=0a0e14&title_color=00ff66&text_color=e6edf3" alt="Umar Farooque Top Languages" height="150"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Activity Stream
 

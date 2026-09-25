@@ -1,29 +1,32 @@
 <div align="center">
 
+# Umar Farooque
+### Cybersecurity Researcher • AI Threat Defense • SafeSignal Creator
+
 <!-- NATIVE ANIMATED CYBER HUD HEADER -->
-<a href="https://github.com/Umarfarooqueji">
+<a href="https://github.com/UmarFarooqueJi">
   <img src="https://raw.githubusercontent.com/Umarfarooqueji/Umarfarooqueji/main/assets/cyber_header.svg" width="100%" alt="Umar Farooque Cyber Header"/>
 </a>
 
 <br/><br/>
 
 <!-- ELECTRIC GLOWING CYBERSECURITY SIGN -->
-<img src="https://raw.githubusercontent.com/Umarfarooqueji/Umarfarooqueji/main/assets/cybersecurity.gif" width="420px" alt="Cybersecurity Animated"/>
+<img src="https://raw.githubusercontent.com/Umarfarooqueji/Umarfarooqueji/main/assets/cybersecurity.gif" width="420px" alt="Umar Farooque Cybersecurity Animated"/>
 
 <br/>
 
-<!-- LIVE TERMINAL TYPING ANIMATION -->
-<a href="https://github.com/Umarfarooqueji">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=680&lines=%3E_Cyber+Defense+Apprentice+%26+Automation+Builder;%3E_Exploring+Adversarial+AI+%26+Prompt+Injection+Defense;%3E_Creator+of+SafeSignal+%E2%80%94+Scam+Protection+Project;%3E_Hands-on+Security+Labs%3A+Web%2C+Mobile+%26+Network;%3E_Building+Defensive+Pipelines+with+Python%2C+APIs+%26+LLMs" alt="Typing SVG" />
+<!-- LIVE TERMINAL TYPING ANIMATION (OPTIMIZED FOR UMAR FAROOQUE) -->
+<a href="https://github.com/UmarFarooqueJi">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Umar+Farooque+%E2%80%94+Cybersecurity+Researcher;AppSec+%26+Adversarial+AI+Threat+Defense;Creator+of+SafeSignal+%E2%80%94+Autonomous+Scam+Defense+Engine;Hands-on+Security+Labs%3A+Web%2C+Mobile+%26+Network;Reverse+Engineering+%26+Defensive+Automation+with+Python" alt="Umar Farooque Typing Terminal" />
 </a>
 
 <br/><br/>
 
 <!-- SYSTEM STATUS & TELEMETRY RADAR -->
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_LEARNING_%E2%97%8F-00ff66?style=for-the-badge&logo=gnubash&logoColor=black)]()
+[![Status](https://img.shields.io/badge/OPERATIONS-ACTIVE_SECURITY_RESEARCH-00ff66?style=for-the-badge&logo=gnubash&logoColor=black)]()
 [![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL__4-ff0055?style=for-the-badge&logo=target&logoColor=white)]()
-[![Location](https://img.shields.io/badge/LOCATION-INDIA_%F0%9F%87%AE%F0%9F%87%B3-0A66C2?style=for-the-badge)]()
-[![Views](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/LOCATION-INDIA-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)]()
 
 ---
 
@@ -47,21 +50,50 @@
 
 ```
 [SYSTEM_LOG: PROFILE_INITIALIZED]
-> IDENTIFIER  : Umar Farooque
-> DESIGNATION : Cyber Defense Apprentice & AI Security Builder
-> CORE_FOCUS  : Application Security (OWASP Top 10), AI Threat Defense, Automated Tooling
-> PROJECT     : SafeSignal — Autonomous AI Scam Defense Engine
-> LAB_STACK   : Kali Linux | Python | Dart/Flutter | Supabase | Firebase | VS Code | Antigravity
+> OPERATOR    : Umar Farooque (@UmarFarooqueJi)
+> ROLE        : Cybersecurity Researcher & AI Defense Engineer
+> CORE_FOCUS  : Application Security (OWASP Top 10), Adversarial LLM Security, Threat Detection
+> FLAGSHIP    : SafeSignal — Autonomous Multi-Tier AI Scam Defense Engine
+> LAB_STACK   : Kali Linux | Python | Dart/Flutter | Supabase (RLS) | Firebase | VS Code | Antigravity
 ```
 
-Hi! I'm **Umar Farooque**, a cybersecurity student based in **India** focused on **Cyber Defense**, **Adversarial AI Security**, and **Workflow Automation**.
+I'm **Umar Farooque**, an offensive and defensive security researcher based in **India**. My work centers on **Adversarial AI Security**, **Application Security Hardening**, and **Autonomous Workflow Automation**.
 
-I believe real security expertise comes from building, breaking, and analyzing real code:
+I focus on practical engineering: building resilient defenses by analyzing real attack vectors:
 
-- 📚 **Hands-on Security Foundations:** Deepening practical skills across Network Penetration, Web Application Security (OWASP Top 10), Android App Testing, and Digital Forensics.
-- 🤖 **Adversarial AI & LLM Hardening:** Studying real-world AI vulnerabilities — prompt injection attack vectors (Direct & Indirect), system prompt leakage prevention, and RAG data integrity.
-- 🛠️ **Research & Engineering:** Creator of **[SafeSignal](https://github.com/Umarfarooqueji/SafeSignal)**, an autonomous open-source engine that intercepts and triages deceptive calls, fraud SMS, and scam screenshots using multi-tier LLMs.
-- ⚙️ **Defensive Automation:** Writing automated security scripts in Python and Bash, integrating secure REST APIs, and working with modern datastores (Supabase PostgreSQL with RLS, MongoDB, Firebase).
+- 🛡️ **AppSec & Penetration Testing:** Rigorous assessment across Web Applications (OWASP Top 10), Mobile Testing (Android APK decompilation & Manifest auditing), and Network Footprinting.
+- 🤖 **Adversarial AI & LLM Hardening:** Identifying and mitigating prompt injection attack vectors (Direct & Indirect), system prompt leakage, jailbreak containment, and RAG retrieval poisoning.
+- 🚀 **Flagship Engineering:** Creator of **[SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)** — an open-source, multi-tier agentic engine intercepting deceptive voice calls, phishing SMS, and fraud screenshots with sub-second AI triage.
+- ⚙️ **Automated Security Tooling:** Crafting high-throughput automation pipelines with Python, Bash, hardened REST APIs, and modern datastores (Supabase PostgreSQL with RLS, MongoDB).
+
+---
+
+### 📊 Real-Time GitHub Telemetry & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UmarFarooqueJi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e14&title_color=00ff66&icon_color=00ff66&text_color=e6edf3" alt="Umar Farooque GitHub Stats" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarFarooqueJi&theme=radical&hide_border=true&background=0a0e14&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" alt="Umar Farooque GitHub Streak" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooqueJi&layout=compact&theme=radical&hide_border=true&bg_color=0a0e14&title_color=00ff66&text_color=e6edf3" alt="Umar Farooque Top Languages" height="150"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Activity Stream
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake.svg">
+  <img alt="Umar Farooque Contribution Grid Snake" src="https://raw.githubusercontent.com/UmarFarooqueJi/Umarfarooqueji/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
@@ -154,17 +186,18 @@ I believe real security expertise comes from building, breaking, and analyzing r
 └── 🛡️ Vernacular Explanations -> Plain-language actionable safety advice (Hindi/English)
 ```
 
-👉 Explore the open-source repository: **[Umarfarooqueji/SafeSignal](https://github.com/Umarfarooqueji/SafeSignal)**
+👉 Explore the open-source repository: **[UmarFarooqueJi/SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)**
 
 ---
 
 <div align="center">
 
 ```
-[LAB_STATUS: ACTIVE] — Open to security discussions, learning collaborations & AI defense experiments.
+[OPERATOR: UMAR FAROOQUE] — Open to security research collaborations, AI defense experiments & offensive security inquiries.
 ```
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Umar_Farooque-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umar-farooque-cyber)
-[![GitHub](https://img.shields.io/badge/GitHub-Umarfarooqueji-181717?style=for-the-badge&logo=github)](https://github.com/Umarfarooqueji)
+[![GitHub](https://img.shields.io/badge/GitHub-UmarFarooqueJi-181717?style=for-the-badge&logo=github)](https://github.com/UmarFarooqueJi)
+[![Email](https://img.shields.io/badge/Email-umarfarooqueji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarfarooqueji@gmail.com)
 
 </div>

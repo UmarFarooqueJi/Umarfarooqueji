@@ -1,72 +1,195 @@
 <div align="center">
 
-<!-- CINEMATIC CYBER PROFILE BANNER -->
+<!-- CINEMATIC CYBER PROFILE HERO BANNER -->
 <a href="https://github.com/UmarFarooqueJi">
-  <img src="assets/github_banner_final.gif" width="100%" alt="Umar Farooque — Cybersecurity Researcher & AI Defense" />
+  <img src="assets/github_banner_final.gif" width="100%" alt="Umar Farooque — Cybersecurity Researcher & AI Threat Defense" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 255, 102, 0.15);" />
 </a>
-
-<br/><br/>
-
-# Umar Farooque
-### Cybersecurity Researcher • AI Threat Defense • SafeSignal Creator
 
 <br/>
 
-<!-- LIVE TERMINAL TYPING ANIMATION (OPTIMIZED FOR UMAR FAROOQUE) -->
+<!-- ANIMATED NEON CYBER DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px"> Umar Farooque
+### 🛡️ Cybersecurity Researcher • 🤖 AI Threat Defense • ⚡ SafeSignal Creator
+
+<br/>
+
+<!-- DYNAMIC TERMINAL TYPING ANIMATION -->
 <a href="https://github.com/UmarFarooqueJi">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Umar+Farooque+%E2%80%94+Cybersecurity+Researcher;AppSec+%26+Adversarial+AI+Threat+Defense;Creator+of+SafeSignal+%E2%80%94+Autonomous+Scam+Defense+Engine;Hands-on+Security+Labs%3A+Web%2C+Mobile+%26+Network;Reverse+Engineering+%26+Defensive+Automation+with+Python" alt="Umar Farooque Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+Cybersecurity+Researcher;AppSec+%26+Adversarial+AI+Threat+Defense;Creator+of+SafeSignal+%E2%80%94+Autonomous+Scam+Defense+Engine;Hands-on+Security+Labs%3A+Web%2C+Mobile+%26+Network;Reverse+Engineering+%26+Defensive+Automation+with+Python" alt="Umar Farooque Typing Terminal" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- SYSTEM STATUS & TELEMETRY RADAR -->
 [![Status](https://img.shields.io/badge/OPERATIONS-ACTIVE_SECURITY_RESEARCH-00ff66?style=for-the-badge&logo=gnubash&logoColor=black)]()
 [![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL__4-ff0055?style=for-the-badge&logo=target&logoColor=white)]()
+[![Role](https://img.shields.io/badge/ROLE-APPSEC_%26_AI_DEFENSE-00e5ff?style=for-the-badge&logo=shield&logoColor=black)]()
 [![Location](https://img.shields.io/badge/LOCATION-INDIA-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Profile Views](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)]()
+[![Radar Visitors](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=RADAR+VISITORS&color=00ff66&style=for-the-badge)]()
+
+</div>
+
+<br/>
+
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
-```text
- _______________________________________________________________________________________________
-/ "Breaking systems in controlled labs to understand how they tick; engineering AI guardrails    \
-\  to defend critical environments against modern social engineering and adversarial vectors."   /
- -----------------------------------------------------------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+## ⚡ Operational Mission & Security Focus
+
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tr>
+<td width="62%" valign="top">
+
+```ini
+[OPERATOR_IDENT: UMAR_FAROOQUE]
+LOCATION   = India 🇮🇳
+CORE_FOCUS = Adversarial AI Defense | Application Security | Threat Hunting
+FLAGSHIP   = SafeSignal — Sub-Second Multi-Tier AI Scam Interceptor
+STACK      = Kali Linux • Python • Flutter • Dart • Supabase • REST APIs
 ```
+
+- 🛡️ **AppSec & Red Teaming:** Rigorous penetration testing across **OWASP Top 10**, Web Application Security, Android APK decompilation, Manifest auditing, and Network Footprinting.
+- 🤖 **Adversarial AI & LLM Hardening:** Investigating and engineering defenses against **Direct & Indirect Prompt Injections**, Jailbreak payload containment, System Prompt leakage, and RAG retrieval poisoning.
+- 🚀 **Flagship Engineering:** Author of **[SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)** — an open-source, multi-tier agentic engine intercepting deceptive voice calls, phishing SMS, and fraud screenshots with sub-second AI triage.
+- ⚙️ **Security Automation & Tooling:** Designing hardened automation pipelines with **Python**, **Bash**, hardened REST APIs, and **Supabase (PostgreSQL with Row Level Security)**.
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="assets/cybersecurity.gif" width="100%" style="border-radius: 10px; max-width: 320px;" alt="Cybersecurity Animated Sign" />
+
+<br/><br/>
+
+[![SafeSignal Repo](https://img.shields.io/badge/FLAGSHIP-SafeSignal_Engine-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Security Arsenal & Technical Stacks
+
+### 💻 Core Programming & Scripting
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,dart,js,html,css&theme=dark" alt="Programming Languages" />
+  </a>
+</div>
+
+<br/>
+
+### 🛡️ Offensive & Defensive Cybersecurity Toolchain
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,docker,git,github&theme=dark" alt="OS and Environments" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![OWASP Top 10](https://img.shields.io/badge/OWASP-Top_10_AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-Framework-111111?style=for-the-badge&logo=metasploit&logoColor=white)](https://metasploit.com/)
+[![MobSF](https://img.shields.io/badge/MobSF-Mobile_Security-00A98F?style=for-the-badge)](https://mobsf.github.io/)
+[![Apktool](https://img.shields.io/badge/Apktool-Reverse_Eng-222222?style=for-the-badge)](https://apktool.org/)
+[![Autopsy](https://img.shields.io/badge/Autopsy-Digital_Forensics-4B0082?style=for-the-badge)](https://www.autopsy.com/)
+[![Sqlmap](https://img.shields.io/badge/Sqlmap-Automated_SQLi-E34F26?style=for-the-badge)](https://sqlmap.org/)
+
+</div>
+
+<br/>
+
+### ☁️ Cloud, Databases, Mobile & Agentic Frameworks
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,supabase,postgres,mongodb,firebase,flutter,vscode&theme=dark" alt="Cloud and Databases" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-Multimodal_AI-8E75C2?style=for-the-badge&logo=googlebard&logoColor=white)](https://ai.google.dev/)
+[![Adversarial AI](https://img.shields.io/badge/Adversarial_AI-Red_Teaming-crimson?style=for-the-badge&logo=target&logoColor=white)]()
+[![LLM Defense](https://img.shields.io/badge/LLM_Defense-Prompt_Injection-000000?style=for-the-badge&logo=shield&logoColor=00FF66)]()
+[![Antigravity IDE](https://img.shields.io/badge/Antigravity-Agentic_IDE-6C5CE7?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
 </div>
 
 ---
 
-### ⚡ Operational Brief
+## 🔬 Flagship Spotlight: SafeSignal
 
-```
-[SYSTEM_LOG: PROFILE_INITIALIZED]
-> OPERATOR    : Umar Farooque (@UmarFarooqueJi)
-> ROLE        : Cybersecurity Researcher & AI Defense Engineer
-> CORE_FOCUS  : Application Security (OWASP Top 10), Adversarial LLM Security, Threat Detection
-> FLAGSHIP    : SafeSignal — Autonomous Multi-Tier AI Scam Defense Engine
-> LAB_STACK   : Kali Linux | Python | Dart/Flutter | Supabase (RLS) | Firebase | VS Code | Antigravity
-```
+<div align="center">
 
-I'm **Umar Farooque**, an offensive and defensive security researcher based in **India**. My work centers on **Adversarial AI Security**, **Application Security Hardening**, and **Autonomous Workflow Automation**.
+<a href="https://github.com/UmarFarooqueJi/SafeSignal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UmarFarooqueJi&repo=SafeSignal&theme=tokyonight&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=c9d1d9&border_color=00FF66" width="460px" alt="SafeSignal Repo Card" />
+</a>
 
-I focus on practical engineering: building resilient defenses by analyzing real attack vectors:
+<br/><br/>
 
-- 🛡️ **AppSec & Penetration Testing:** Rigorous assessment across Web Applications (OWASP Top 10), Mobile Testing (Android APK decompilation & Manifest auditing), and Network Footprinting.
-- 🤖 **Adversarial AI & LLM Hardening:** Identifying and mitigating prompt injection attack vectors (Direct & Indirect), system prompt leakage, jailbreak containment, and RAG retrieval poisoning.
-- 🚀 **Flagship Engineering:** Creator of **[SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)** — an open-source, multi-tier agentic engine intercepting deceptive voice calls, phishing SMS, and fraud screenshots with sub-second AI triage.
-- ⚙️ **Automated Security Tooling:** Crafting high-throughput automation pipelines with Python, Bash, hardened REST APIs, and modern datastores (Supabase PostgreSQL with RLS, MongoDB).
+| Pipeline Stage | Functionality | Technologies |
+| :--- | :--- | :--- |
+| **📥 Telemetry Ingestion** | Real-time intake of suspicious voice transcripts, SMS payloads & fraud screenshots | `Android Background Listeners`, `OCR` |
+| **⚡ Sub-Second Triage** | Fast signature hashing, known scam phone lists & domain reputation lookup (<300ms) | `Python`, `Supabase RLS`, `Hash Indexes` |
+| **🧠 Adversarial AI Reasoning** | Deep semantic LLM verification against social engineering patterns & urgent tone hooks | `Google Gemini`, `LangChain`, `RAG Vectors` |
+| **🛡️ Vernacular Defense Alert** | Actionable plain-language safety countermeasures delivered in Hindi & English | `Flutter Frontend`, `Secure Push Dispatch` |
+
+</div>
 
 ---
 
+## 📊 Live GitHub Telemetry & Stats
 
-### 🐍 Contribution Activity Stream
+<div align="center">
+
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/UmarFarooqueJi">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmarFarooqueJi&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=c9d1d9&border_color=1F242C&include_all_commits=true&count_private=true" width="100%" alt="Umar Farooque GitHub Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/UmarFarooqueJi">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarFarooqueJi&theme=tokyonight&hide_border=false&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&border=1F242C" width="100%" alt="Umar Farooque Streak" />
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/UmarFarooqueJi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooqueJi&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FF66&text_color=c9d1d9&border_color=1F242C&include_all_commits=true&count_private=true" width="100%" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED CYBER HACKER STICKER -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV1eGQzazBoeWIwaGM4dzE5cG82YmFuM2R3NDQyOGNqYnRhd25nMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" width="310px" style="border-radius: 8px; border: 1px solid #1F242C;" alt="Cyber Matrix Animation" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity Stream
 
 <div align="center">
 
@@ -80,107 +203,27 @@ I focus on practical engineering: building resilient defenses by analyzing real 
 
 ---
 
-### 🧰 Skill Matrix & Practical Labs
-
-<details open>
-<summary><b>🛡️ [01] OFFENSIVE & DEFENSIVE CYBERSECURITY</b></summary>
-<br>
-
-| Area | Focus Concepts & Vulnerability Testing | Toolchain & Utilities |
-| :--- | :--- | :--- |
-| **Web App Security** | SQL Injection (Manual & Automated), XSS (Stored/Reflected/DOM), CSRF, SSRF, IDOR, SSTI, HTTP Smuggling, LFI/RFI | `Burp Suite`, `OWASP ZAP`, `Sqlmap`, `Nikto`, `Dirb` |
-| **Mobile App Testing** | Android architecture, APK decompilation, Manifest auditing, static & dynamic security analysis | `MobSF`, `Apktool`, `Drozer` |
-| **Network & Footprinting**| Active/Passive Recon, OSINT, Port scanning, Traffic sniffing, MITM analysis, Protocol troubleshooting | `Wireshark`, `Nmap`, `Kali Linux`, `Cisco Packet Tracer` |
-| **System & Investigation** | Password testing, Linux system hardening, Log analysis, Disk & Memory evidence acquisition | `Metasploit`, `Hydra`, `John the Ripper`, `Autopsy` |
-
-</details>
-
-<details open>
-<summary><b>🧠 [02] ADVERSARIAL AI & AUTOMATION ENGINEERING</b></summary>
-<br>
-
-| Topic | Focus & Research Labs | Frameworks & Stacks |
-| :--- | :--- | :--- |
-| **AI Security Testing** | Direct & Indirect Prompt Injection defense, Jailbreak payload stress-testing, System prompt containment | `Google Gemini`, `LLM Guardrails` |
-| **RAG & Vector Grounding**| Vector embeddings, semantic similarity search, scam knowledge base retrieval pipelines | `Vector DBs`, `LangChain concepts`, `Embeddings` |
-| **Workflow Automation** | Multi-agent execution pipelines, automated developer tooling, security workflow scripting | `Antigravity AI`, `Python CLI`, `Bash Scripts` |
-
-</details>
-
-<details open>
-<summary><b>☁️ [03] BACKEND, CLOUD & DEVELOPMENT ENVIRONMENT</b></summary>
-<br>
-
-| Layer | Technologies & Implementations |
-| :--- | :--- |
-| **Cloud Security** | **AWS Fundamentals** (IAM least privilege, VPC network segmentation, S3 bucket policies, CloudTrail auditing) |
-| **Databases** | **Supabase** (PostgreSQL with Row Level Security), **MongoDB** (NoSQL datastores), **Firebase** (Firestore & Auth) |
-| **Application Layer** | **Python** (Automation scripts), **Dart & Flutter** (Cross-platform production apps), **REST APIs** (JWT/Bearer Auth, Webhooks) |
-| **Workspace & Tooling** | **VS Code**, **Antigravity (Agentic AI IDE)**, **Git & GitHub** (Version Control & CI/CD Pipelines) |
-
-</details>
-
----
-
-### 📡 Interactive Toolchain Badges
+## 🌐 Secure Communications & Social Uplinks
 
 <div align="center">
 
-#### Security & Analysis Tools
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat-square)](https://nmap.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)](https://owasp.org/)
-[![Sqlmap](https://img.shields.io/badge/Sqlmap-E34F26?style=flat-square)](https://sqlmap.org/)
-[![MobSF](https://img.shields.io/badge/MobSF-Mobile_Sec-00A98F?style=flat-square)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-[![Apktool](https://img.shields.io/badge/Apktool-Reverse_Eng-222222?style=flat-square)](https://apktool.org/)
-[![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-4B0082?style=flat-square)](https://www.autopsy.com/)
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-#### AI, Automation & Coding
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlebard&logoColor=white)](https://ai.google.dev/)
-[![Adversarial AI](https://img.shields.io/badge/Adversarial_AI-Red_Teaming-crimson?style=flat-square)]()
-[![Prompt Injection](https://img.shields.io/badge/LLM_Defense-Prompt_Injection-black?style=flat-square)]()
-[![Bash Scripting](https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white)]()
-[![Antigravity](https://img.shields.io/badge/Antigravity-Agentic_IDE-6C5CE7?style=flat-square)]()
-[![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+<br/><br/>
 
-#### Cloud, Database & Cross-Platform
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Basics-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-Postgres_%26_RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-Auth_%26_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-Cross_Platform-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-Type_Safe-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-[![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-</div>
-
----
-
-### 🔬 Project Spotlight: SafeSignal
-
-```
-[SYSTEM_ARCHITECTURE: SAFESIGNAL]
-├── 📥 Input Telemetry         -> Suspicious Calls, Phishing SMS, Fraudulent Screenshots
-├── ⚡ High-Speed Triage       -> Signature checks, phone fraud database hashing (<300ms)
-├── 🧠 Multi-Tier AI Reasoning -> Deep contextual LLM assessment to detect social engineering
-└── 🛡️ Vernacular Explanations -> Plain-language actionable safety advice (Hindi/English)
-```
-
-👉 Explore the open-source repository: **[UmarFarooqueJi/SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)**
-
----
-
-<div align="center">
-
-```
-[OPERATOR: UMAR FAROOQUE] — Open to security research collaborations, AI defense experiments & offensive security inquiries.
-```
-
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Umar_Farooque-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umar-farooque-cyber)
-[![GitHub](https://img.shields.io/badge/GitHub-UmarFarooqueJi-181717?style=for-the-badge&logo=github)](https://github.com/UmarFarooqueJi)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Umar_Farooque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-farooque-cyber)
+[![GitHub](https://img.shields.io/badge/GitHub-UmarFarooqueJi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFarooqueJi)
 [![Email](https://img.shields.io/badge/Email-umarfarooqueji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarfarooqueji@gmail.com)
+[![SafeSignal Security](https://img.shields.io/badge/SafeSignal-Security_Research-00FF66?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
+
+<br/><br/>
+
+```text
+[OPERATOR: UMAR FAROOQUE] — Open to AppSec research collaborations, Adversarial AI defense experiments & Red Team labs.
+```
+
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>

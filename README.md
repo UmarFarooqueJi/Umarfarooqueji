@@ -79,7 +79,7 @@ STACK      = Kali Linux • Python • Flutter • Dart • Supabase • REST AP
 ### 💻 Core Programming & Scripting
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,dart,js,html,css&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,bash,dart,js,html,css&theme=dark" alt="Programming Languages" />
   </a>
 </div>
 
@@ -178,8 +178,10 @@ STACK      = Kali Linux • Python • Flutter • Dart • Supabase • REST AP
 
 <br/><br/>
 
-<!-- ANIMATED CYBER HACKER STICKER -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV1eGQzazBoeWIwaGM4dzE5cG82YmFuM2R3NDQyOGNqYnRhd25nMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" width="310px" style="border-radius: 8px; border: 1px solid #1F242C;" alt="Cyber Matrix Animation" />
+<!-- AUTHENTIC CYBER OPERATOR HUD CARD -->
+<a href="https://github.com/UmarFarooqueJi">
+  <img src="assets/cyber_operator_card.gif" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 255, 102, 0.1);" alt="Umar Farooque — Verified Cyber Operator" />
+</a>
 
 </td>
 </tr>

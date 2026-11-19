@@ -1,17 +1,14 @@
 <div align="center">
 
-# Umar Farooque
-### Cybersecurity Researcher • AI Threat Defense • SafeSignal Creator
-
-<!-- NATIVE ANIMATED CYBER HUD HEADER -->
+<!-- CINEMATIC CYBER PROFILE BANNER -->
 <a href="https://github.com/UmarFarooqueJi">
-  <img src="https://raw.githubusercontent.com/Umarfarooqueji/Umarfarooqueji/main/assets/cyber_header.svg" width="100%" alt="Umar Farooque Cyber Header"/>
+  <img src="assets/github_banner_final.gif" width="100%" alt="Umar Farooque — Cybersecurity Researcher & AI Defense" />
 </a>
 
 <br/><br/>
 
-<!-- ELECTRIC GLOWING CYBERSECURITY SIGN -->
-<img src="https://raw.githubusercontent.com/Umarfarooqueji/Umarfarooqueji/main/assets/cybersecurity.gif" width="420px" alt="Umar Farooque Cybersecurity Animated"/>
+# Umar Farooque
+### Cybersecurity Researcher • AI Threat Defense • SafeSignal Creator
 
 <br/>
 

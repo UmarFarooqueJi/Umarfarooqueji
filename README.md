@@ -13,21 +13,22 @@
 <br/>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px"> Umar Farooque
-### 🛡️ Application Security • 🤖 AI Security & Adversarial Defense • ⚡ SafeSignal Author
+### 🤖 AI Security & LLM Threat Defense • 🛡️ Adversarial Red Teaming • ⚡ SafeSignal Author
 
 <br/>
 
 <!-- DYNAMIC TERMINAL TYPING ANIMATION -->
 <a href="https://github.com/UmarFarooqueJi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+AppSec+%26+AI+Security+Researcher;Adversarial+AI+%26+LLM+Threat+Defense;Author+of+SafeSignal+%E2%80%94+Air-Gapped+Android+Defense;Prompt+Injection%2C+Jailbreak+Defense+%26+RAG+Hardening;Defensive+Security+Automation+with+Python+%26+Linux" alt="Umar Farooque Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+AI+Security+%26+LLM+Threat+Researcher;Adversarial+AI+Defense%3A+Prompt+Injection+%26+Jailbreak+Mitigation;OWASP+Top+10+for+Large+Language+Models+(LLMs);Agentic+AI+Safety+%26+Tool-Calling+Boundary+Sandboxing;Author+of+SafeSignal+%E2%80%94+On-Device+ML+%26+Air-Gapped+Vault;Security+Automation+%26+Tooling+with+Python+%26+Linux" alt="Umar Farooque Typing Terminal" />
 </a>
 
 <br/>
 
 <!-- SYSTEM STATUS & TELEMETRY RADAR -->
-[![AI Security](https://img.shields.io/badge/AI_SECURITY-ADVERSARIAL_LLM_DEFENSE-00e5ff?style=for-the-badge&logo=openai&logoColor=black)]()
-[![AppSec](https://img.shields.io/badge/APPSEC-ANDROID_%26_WEB_DEFENSE-00ff66?style=for-the-badge&logo=shield&logoColor=black)]()
-[![Flagship](https://img.shields.io/badge/FLAGSHIP-SAFESIGNAL_AIR--GAPPED_VAULT-ffaa00?style=for-the-badge&logo=android&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
+[![Primary Focus](https://img.shields.io/badge/PRIMARY_FOCUS-AI_%26_LLM_SECURITY-00e5ff?style=for-the-badge&logo=openai&logoColor=black)]()
+[![OWASP LLM](https://img.shields.io/badge/FRAMEWORK-OWASP_TOP_10_LLM-ff0055?style=for-the-badge&logo=owasp&logoColor=white)]()
+[![Red Team](https://img.shields.io/badge/RESEARCH-ADVERSARIAL_RED_TEAMING-00ff66?style=for-the-badge&logo=target&logoColor=black)]()
+[![Flagship](https://img.shields.io/badge/FLAGSHIP-SAFESIGNAL_ON--DEVICE_ML-ffaa00?style=for-the-badge&logo=android&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
 [![Stack](https://img.shields.io/badge/CORE_STACK-PYTHON_%E2%80%A2_DART_%E2%80%A2_LINUX-9b59b6?style=for-the-badge&logo=python&logoColor=white)]()
 [![Location](https://img.shields.io/badge/LOCATION-INDIA-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)]()
@@ -48,19 +49,21 @@
 <td width="62%" valign="top">
 
 ```ini
-[PROFILE: UMAR_FAROOQUE]
+[RESEARCHER: UMAR_FAROOQUE]
 LOCATION   = India 🇮🇳
-FOCUS      = Adversarial AI & LLM Defense • Application Security (AppSec) • Android Hardening
-FLAGSHIP   = SafeSignal — 100% On-Device, Air-Gapped Cyber Defense Suite for Android
-FOUNDATION = Cryptographic Storage (AES-256-GCM) • Heuristic Threat Triage • On-Device ML Kit
-TOOLCHAIN  = Python Automation • Linux/Bash • Dart/Flutter • Supabase RLS • OWASP Top 10
+CORE_FOCUS = Adversarial AI & LLM Security • Prompt Injection Defense • Agentic AI Safety
+SECONDARY  = Application Security (OWASP Top 10) • Mobile Cryptography & Hardening
+RESEARCH   = Direct/Indirect Prompt Injection • Jailbreak Containment • RAG Poisoning
+FLAGSHIP   = SafeSignal — On-Device ML Text Recognition & Scam Interceptor
+TOOLCHAIN  = Python • PyTorch • LangChain • Linux/Bash • Dart/Flutter • Supabase RLS
 ```
 
-- 🛡️ **Application & Mobile Security:** Focused on Android APK security auditing, manifest permissions, intent interceptors, and OWASP Top 10 web & mobile vulnerabilities.
-- 🔐 **Cryptographic Storage & Vaults:** Implementation of authenticated hardware-backed encryption (`AES-256-GCM`) via Android KeyStore, secure memory streaming, and privacy-first architectures.
-- 🤖 **Adversarial AI Defense & LLM Hardening:** Researching defensive guardrails against direct/indirect prompt injection, system prompt extraction, jailbreak boundaries, and untrusted artifact isolation.
+- 🤖 **Adversarial AI & LLM Security:** Researching and engineering defensive guardrails against **Direct & Indirect Prompt Injection**, Jailbreak containment, System Prompt extraction, RAG retrieval poisoning, and LLM output manipulation.
+- 🛡️ **Agentic AI Safety & Tool Sandboxing:** Developing policy-constrained boundary guards for autonomous tool-calling agents, parameter validation, and execution isolation.
+- 📱 **Mobile & Application Security:** Focused on Android APK reverse-engineering, manifest permissions, broadcast receivers, and OWASP Top 10 mobile/web attack vectors.
+- 🔐 **Cryptographic Storage & Hardware Anchors:** Implementation of authenticated `AES-256-GCM` encryption anchored via Android KeyStore, secure memory streaming, and privacy-first architectures.
 - 🚀 **Flagship Engineering — SafeSignal:** Author of **[SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)** — an open-source Android cyber defense engine featuring on-device Google ML Kit OCR, phishing radar, DLT-compliant SMS filters, and incident response routing.
-- ⚙️ **Security Automation & Tooling:** Designing hardened automation pipelines with **Python**, **Bash**, hardened REST APIs, and **Supabase (PostgreSQL with Row Level Security)**.
+- ⚙️ **Security Automation & Tooling:** Designing hardened automation pipelines with **Python**, **Bash**, REST APIs, and **Supabase (PostgreSQL with Row Level Security)**.
 
 </td>
 <td width="38%" valign="top" align="center">
@@ -74,6 +77,30 @@ TOOLCHAIN  = Python Automation • Linux/Bash • Dart/Flutter • Supabase RLS 
 </td>
 </tr>
 </table>
+
+---
+
+## 🧠 Adversarial AI & LLM Security Matrix
+
+<div align="center">
+
+| Threat Vector (OWASP for LLMs) | Attack Surface & Vulnerability Context | Defensive Architecture & Countermeasure |
+| :--- | :--- | :--- |
+| **🛡️ Prompt Injection (LLM01)** | Direct jailbreak prefixes, indirect prompt injection via poisoned web/PDF data, base64 payloads | Multi-layer input sanitization, instruction-data isolation wrappers, dual-evaluator safety gates |
+| **🔍 Insecure Output Handling (LLM02)** | Model emitting unsanitized XSS, raw SQL injections, or unvalidated CLI system commands | Strict typed JSON Schema validation (Pydantic), AST parsing, sandboxed downstream execution |
+| **📚 RAG & Context Poisoning (LLM03)** | Adversaries corrupting vector stores or external retrieval documents with adversarial text | Document SHA-256 hash pinning, retrieval similarity threshold gating, cross-source citation checks |
+| **⚡ Model Denial of Service (LLM04)** | Resource exhaustion via context window blowout, recursive loops & algorithmic complexity | Token-bucket rate limiters, hard context caps, max-depth recursion limits & timeout circuit breakers |
+| **🕵️ System Prompt & Data Leakage (LLM06)** | Reconnaissance prompts attempting to extract proprietary system instructions or training data | Output regex filters, zero-retrieval system anchors, canary token tripwires |
+| **🤖 Autonomous Agent Hijacking (LLM08)** | LLM tool-calling agents manipulated into unauthorized file read, destructive API calls, or egress | Deterministic human-in-the-loop approvals, read-only privilege defaults, strict tool parameter schemas |
+
+<br/>
+
+[![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10_Research-black?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+[![Adversarial AI Red Teaming](https://img.shields.io/badge/Adversarial_AI-Red_Teaming-crimson?style=for-the-badge&logo=target&logoColor=white)]()
+[![Prompt Injection Defense](https://img.shields.io/badge/Prompt_Injection-Defensive_Hardening-00FF66?style=for-the-badge&logo=shield&logoColor=black)]()
+[![Agentic AI Safety](https://img.shields.io/badge/Agentic_AI-Tool_Sandboxing-00e5ff?style=for-the-badge&logo=anthropic&logoColor=black)]()
+
+</div>
 
 ---
 

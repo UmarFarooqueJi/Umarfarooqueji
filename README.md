@@ -13,23 +13,23 @@
 <br/>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px"> Umar Farooque
-### 🛡️ Cybersecurity Researcher • 🤖 AI Threat Defense • ⚡ SafeSignal Creator
+### 🛡️ Application Security • 📱 Android Defense & Cryptography • ⚡ SafeSignal Author
 
 <br/>
 
 <!-- DYNAMIC TERMINAL TYPING ANIMATION -->
 <a href="https://github.com/UmarFarooqueJi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+Cybersecurity+Researcher;AppSec+%26+Adversarial+AI+Threat+Defense;Creator+of+SafeSignal+%E2%80%94+Autonomous+Scam+Defense+Engine;Hands-on+Security+Labs%3A+Web%2C+Mobile+%26+Network;Reverse+Engineering+%26+Defensive+Automation+with+Python" alt="Umar Farooque Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+Security+Engineer;AppSec+%26+Adversarial+AI+Threat+Defense;Author+of+SafeSignal+%E2%80%94+Air-Gapped+Android+Defense;On-Device+ML+Kit+Inference+%26+AES-256-GCM+Vault;Defensive+Security+Automation+with+Python+%26+Linux" alt="Umar Farooque Typing Terminal" />
 </a>
 
 <br/>
 
 <!-- SYSTEM STATUS & TELEMETRY RADAR -->
-[![Status](https://img.shields.io/badge/OPERATIONS-ACTIVE_SECURITY_RESEARCH-00ff66?style=for-the-badge&logo=gnubash&logoColor=black)]()
-[![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL__4-ff0055?style=for-the-badge&logo=target&logoColor=white)]()
-[![Role](https://img.shields.io/badge/ROLE-APPSEC_%26_AI_DEFENSE-00e5ff?style=for-the-badge&logo=shield&logoColor=black)]()
+[![Specialization](https://img.shields.io/badge/SPECIALIZATION-APPLICATION_%26_ANDROID_SECURITY-00ff66?style=for-the-badge&logo=android&logoColor=black)]()
+[![Flagship](https://img.shields.io/badge/FLAGSHIP-SAFESIGNAL_AIR--GAPPED_VAULT-00e5ff?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
+[![Stack](https://img.shields.io/badge/CORE_STACK-DART_%E2%80%A2_PYTHON_%E2%80%A2_LINUX-ffaa00?style=for-the-badge&logo=python&logoColor=black)]()
 [![Location](https://img.shields.io/badge/LOCATION-INDIA-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Radar Visitors](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=RADAR+VISITORS&color=00ff66&style=for-the-badge)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)]()
 
 </div>
 
@@ -47,16 +47,18 @@
 <td width="62%" valign="top">
 
 ```ini
-[OPERATOR_IDENT: UMAR_FAROOQUE]
+[PROFILE: UMAR_FAROOQUE]
 LOCATION   = India 🇮🇳
-CORE_FOCUS = Adversarial AI Defense | Application Security | Threat Hunting
-FLAGSHIP   = SafeSignal — Sub-Second Multi-Tier AI Scam Interceptor
-STACK      = Kali Linux • Python • Flutter • Dart • Supabase • REST APIs
+FOCUS      = Application Security (AppSec) • Android Hardening • Adversarial AI Defense
+FLAGSHIP   = SafeSignal — 100% On-Device, Air-Gapped Cyber Defense Suite for Android
+FOUNDATION = Cryptographic Storage (AES-256-GCM) • Heuristic Threat Triage • On-Device ML Kit
+TOOLCHAIN  = Python Automation • Linux/Bash • Dart/Flutter • Supabase RLS • OWASP Top 10
 ```
 
-- 🛡️ **AppSec & Red Teaming:** Rigorous penetration testing across **OWASP Top 10**, Web Application Security, Android APK decompilation, Manifest auditing, and Network Footprinting.
-- 🤖 **Adversarial AI & LLM Hardening:** Investigating and engineering defenses against **Direct & Indirect Prompt Injections**, Jailbreak payload containment, System Prompt leakage, and RAG retrieval poisoning.
-- 🚀 **Flagship Engineering:** Author of **[SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)** — an open-source, multi-tier agentic engine intercepting deceptive voice calls, phishing SMS, and fraud screenshots with sub-second AI triage.
+- 🛡️ **Application & Mobile Security:** Focused on Android APK security auditing, manifest permissions, intent interceptors, and OWASP Top 10 web & mobile vulnerabilities.
+- 🔐 **Cryptographic Storage & Vaults:** Implementation of authenticated hardware-backed encryption (`AES-256-GCM`) via Android KeyStore, secure memory streaming, and privacy-first architectures.
+- 🤖 **Adversarial AI Defense & LLM Hardening:** Researching defensive guardrails against direct/indirect prompt injection, system prompt extraction, jailbreak boundaries, and untrusted artifact isolation.
+- 🚀 **Flagship Engineering — SafeSignal:** Author of **[SafeSignal](https://github.com/UmarFarooqueJi/SafeSignal)** — an open-source Android cyber defense engine featuring on-device Google ML Kit OCR, phishing radar, DLT-compliant SMS filters, and incident response routing.
 - ⚙️ **Security Automation & Tooling:** Designing hardened automation pipelines with **Python**, **Bash**, hardened REST APIs, and **Supabase (PostgreSQL with Row Level Security)**.
 
 </td>
@@ -142,10 +144,10 @@ STACK      = Kali Linux • Python • Flutter • Dart • Supabase • REST AP
 
 | Pipeline Stage | Functionality | Technologies |
 | :--- | :--- | :--- |
-| **📥 Telemetry Ingestion** | Real-time intake of suspicious voice transcripts, SMS payloads & fraud screenshots | `Android Background Listeners`, `OCR` |
-| **⚡ Sub-Second Triage** | Fast signature hashing, known scam phone lists & domain reputation lookup (<300ms) | `Python`, `Supabase RLS`, `Hash Indexes` |
-| **🧠 Adversarial AI Reasoning** | Deep semantic LLM verification against social engineering patterns & urgent tone hooks | `Google Gemini`, `LangChain`, `RAG Vectors` |
-| **🛡️ Vernacular Defense Alert** | Actionable plain-language safety countermeasures delivered in Hindi & English | `Flutter Frontend`, `Secure Push Dispatch` |
+| **📥 Telemetry Ingestion** | Intake of suspicious SMS payloads, DLT headers, call metadata & fraud screenshots | `Android Broadcast Receivers`, `Google ML Kit (C++)` |
+| **⚡ Heuristic Triage** | Punycode/IDN homograph detection, known scam signature hashing & Cloudflare DoH | `Dart/Flutter`, `Cloudflare DoH`, `Hash Indexes` |
+| **🧠 Threat & Policy Engine** | Social engineering pattern matching, urgency tone detection & policy-driven intent triage | `Heuristic Policy Engine`, `Multi-Tier Rule Matrix` |
+| **🔐 Hardware Vault & Alert** | Authenticated AES-256-GCM encrypted storage & plain-language safety countermeasures | `Android KeyStore`, `AES-256-GCM`, `Flutter UI` |
 
 </div>
 
@@ -222,7 +224,7 @@ STACK      = Kali Linux • Python • Flutter • Dart • Supabase • REST AP
 <br/><br/>
 
 ```text
-[OPERATOR: UMAR FAROOQUE] — Open to AppSec research collaborations, Adversarial AI defense experiments & Red Team labs.
+[UMAR FAROOQUE] — Open to Application Security engineering roles, Android security collaborations & Adversarial AI defense research.
 ```
 
 <!-- ANIMATED FOOTER WAVE -->

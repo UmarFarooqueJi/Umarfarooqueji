@@ -13,21 +13,22 @@
 <br/>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px"> Umar Farooque
-### 🛡️ Application Security • 📱 Android Defense & Cryptography • ⚡ SafeSignal Author
+### 🛡️ Application Security • 🤖 AI Security & Adversarial Defense • ⚡ SafeSignal Author
 
 <br/>
 
 <!-- DYNAMIC TERMINAL TYPING ANIMATION -->
 <a href="https://github.com/UmarFarooqueJi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+Security+Engineer;AppSec+%26+Adversarial+AI+Threat+Defense;Author+of+SafeSignal+%E2%80%94+Air-Gapped+Android+Defense;On-Device+ML+Kit+Inference+%26+AES-256-GCM+Vault;Defensive+Security+Automation+with+Python+%26+Linux" alt="Umar Farooque Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=780&height=45&lines=Umar+Farooque+%E2%80%94+AppSec+%26+AI+Security+Researcher;Adversarial+AI+%26+LLM+Threat+Defense;Author+of+SafeSignal+%E2%80%94+Air-Gapped+Android+Defense;Prompt+Injection%2C+Jailbreak+Defense+%26+RAG+Hardening;Defensive+Security+Automation+with+Python+%26+Linux" alt="Umar Farooque Typing Terminal" />
 </a>
 
 <br/>
 
 <!-- SYSTEM STATUS & TELEMETRY RADAR -->
-[![Specialization](https://img.shields.io/badge/SPECIALIZATION-APPLICATION_%26_ANDROID_SECURITY-00ff66?style=for-the-badge&logo=android&logoColor=black)]()
-[![Flagship](https://img.shields.io/badge/FLAGSHIP-SAFESIGNAL_AIR--GAPPED_VAULT-00e5ff?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
-[![Stack](https://img.shields.io/badge/CORE_STACK-DART_%E2%80%A2_PYTHON_%E2%80%A2_LINUX-ffaa00?style=for-the-badge&logo=python&logoColor=black)]()
+[![AI Security](https://img.shields.io/badge/AI_SECURITY-ADVERSARIAL_LLM_DEFENSE-00e5ff?style=for-the-badge&logo=openai&logoColor=black)]()
+[![AppSec](https://img.shields.io/badge/APPSEC-ANDROID_%26_WEB_DEFENSE-00ff66?style=for-the-badge&logo=shield&logoColor=black)]()
+[![Flagship](https://img.shields.io/badge/FLAGSHIP-SAFESIGNAL_AIR--GAPPED_VAULT-ffaa00?style=for-the-badge&logo=android&logoColor=black)](https://github.com/UmarFarooqueJi/SafeSignal)
+[![Stack](https://img.shields.io/badge/CORE_STACK-PYTHON_%E2%80%A2_DART_%E2%80%A2_LINUX-9b59b6?style=for-the-badge&logo=python&logoColor=white)]()
 [![Location](https://img.shields.io/badge/LOCATION-INDIA-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=Umarfarooqueji&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)]()
 
@@ -49,7 +50,7 @@
 ```ini
 [PROFILE: UMAR_FAROOQUE]
 LOCATION   = India 🇮🇳
-FOCUS      = Application Security (AppSec) • Android Hardening • Adversarial AI Defense
+FOCUS      = Adversarial AI & LLM Defense • Application Security (AppSec) • Android Hardening
 FLAGSHIP   = SafeSignal — 100% On-Device, Air-Gapped Cyber Defense Suite for Android
 FOUNDATION = Cryptographic Storage (AES-256-GCM) • Heuristic Threat Triage • On-Device ML Kit
 TOOLCHAIN  = Python Automation • Linux/Bash • Dart/Flutter • Supabase RLS • OWASP Top 10
@@ -224,7 +225,7 @@ TOOLCHAIN  = Python Automation • Linux/Bash • Dart/Flutter • Supabase RLS 
 <br/><br/>
 
 ```text
-[UMAR FAROOQUE] — Open to Application Security engineering roles, Android security collaborations & Adversarial AI defense research.
+[UMAR FAROOQUE] — Open to Adversarial AI Security research, Application Security engineering & mobile defense collaborations.
 ```
 
 <!-- ANIMATED FOOTER WAVE -->
